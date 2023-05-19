@@ -57,8 +57,8 @@ create table if not exists `issuebooks` (
 --
 -- Mượn Sách
 insert into `issuebooks` (`id`, `bookcallno`, `studentid`, `studentname`, `studentcontact`, `issueddate`) values
-(1, 'A', 23, 'abc', '932992932', '2023-04-19 18:43:16'),
-(2, 'B', 335, 'def', '95676565756', '2023-04-19 18:44:34'),
+(1, 'A', 23, 'abc', '932992932', '2023-05-19 18:43:16'),
+(2, 'B', 335, 'def', '95676565756', '2023-05-19 18:44:34'),
 (3, 'C', 87, 'ghi', '9329882382', '2023-04-19 18:46:12');
 
 create table if not exists `books` (
