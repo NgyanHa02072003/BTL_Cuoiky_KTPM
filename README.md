@@ -1,4 +1,4 @@
-# 📚 OOP project -Java
+# 📚 Project - Java
 
 Source Code Bài tâp lớn OOP về quản lí thư viện trường đại học Phenikaa
 
