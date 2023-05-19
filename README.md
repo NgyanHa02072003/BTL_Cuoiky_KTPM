@@ -1,6 +1,6 @@
 # 📚 Project - Java
 
-Source Code Bài tâp lớn OOP về quản lí thư viện trường đại học Phenikaa
+Source Code Bài tâp lớn Kỹ thuật phần mềm về quản lí thư viện trường đại học Phenikaa
 
 ## Sử dụng: 
 
